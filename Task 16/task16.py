@@ -1,0 +1,1 @@
+print("the answer is", 66/12)
