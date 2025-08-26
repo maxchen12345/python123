@@ -1,1 +1,1 @@
-print("the answer is", 66/12)
+print("Each person can spend", 66/12)
